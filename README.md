@@ -46,7 +46,7 @@
 
 | Login | News Feed | WebView | Bookmarks |
 |-------|-----------|---------|-----------|
-| ![Login](screenshots/login.png) | ![News](screenshots/news_feed.png) | ![WebView](screenshots/webview.png) | ![Bookmarks](screenshots/bookmarks.png) |
+| ![Login](git_image/login.jpg) | ![News](git_image/news_feed.jpg) | ![WebView](git_image/web_view.jpg) | ![Bookmarks](git_image/book_marks.jpg) |
 
 ---
 
